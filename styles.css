@@ -1,3 +1,22 @@
-* {
-    outline: 2px solid red;
+div {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 5px;
+    color:aqua;
+}
+
+.title {
+    background-color: black;
+}
+
+.why {
+    background-color: black;
+}
+
+.meme {
+    background-color: black;
+}
+
+.highlight {
+    background-color: yellow;
 }
